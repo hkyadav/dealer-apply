@@ -1,71 +1,142 @@
-HTTrack3.49-2+htsswf+htsjava launched on Mon, 28 Nov 2022 23:01:13 at https://www.wowmomosfranchise.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.wowmomosfranchise.com/ -O1 "C:\My Web Sites\fakier" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
-
-Information, Warnings and Errors reported for this mirror:
-note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
-	such as username/password authentication for websites mirrored in this project
-	do not share these files/folders if you want these information to remain private
-
-23:02:16	Error: 	"Not Found" (404) at link https://www.wowmomosfranchise.com/gtag/gtm.js (from https://www.wowmomosfranchise.com/gtag/js?id=UA-199870808-1)
-23:02:16	Error: 	"Not Found" (404) at link https://www.wowmomosfranchise.com/gtag/ec.js (from https://www.wowmomosfranchise.com/gtag/js?id=UA-199870808-1)
-23:02:16	Error: 	"Not Found" (404) at link https://www.wowmomosfranchise.com/analytics.js (from https://www.wowmomosfranchise.com/gtag/js?id=UA-199870808-1)
-23:02:16	Error: 	"Not Found" (404) at link https://www.wowmomosfranchise.com/gtag/recaptcha.js (from https://www.wowmomosfranchise.com/gtag/js?id=UA-199870808-1)
-23:02:16	Error: 	"Not Found" (404) at link https://www.wowmomosfranchise.com/gtag/linkid.js (from https://www.wowmomosfranchise.com/gtag/js?id=UA-199870808-1)
-23:02:16	Error: 	"Not Found" (404) at link https://www.wowmomosfranchise.com/assets/front/css/images/owl.video.play.png (from https://www.wowmomosfranchise.com/assets/front/css/owl.carousel.min.css)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://www.wowmomofranchise.net/assets/front/images/favcon.png (from https://www.wowmomosfranchise.com/status.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/css/style.css (from https://www.wowmomosfranchise.com/status.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/css/responsive.css (from https://www.wowmomosfranchise.com/status.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/css/bootstrap.min.css (from https://www.wowmomosfranchise.com/status.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/css/owl.carousel.min.css (from https://www.wowmomosfranchise.com/status.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/css/magnific-popup.css (from https://www.wowmomosfranchise.com/status.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/images/logo.png (from https://www.wowmomosfranchise.com/status.html)
-23:02:16	Warning: 	Link https://www.wowmomosfranchise.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
-23:02:16	Error: 	"Not Found" (404) at link https://www.wowmomosfranchise.com/return-policy (from https://www.wowmomosfranchise.com/status.html)
-23:02:16	Error: 	"Not Found" (404) at link https://www.wowmomosfranchise.com/privacy-policy (from https://www.wowmomosfranchise.com/status.html)
-23:02:16	Error: 	"Not Found" (404) at link https://www.wowmomosfranchise.com/term-conditions (from https://www.wowmomosfranchise.com/status.html)
-23:02:16	Error: 	"Not Found" (404) at link https://www.wowmomosfranchise.com/html (from https://www.wowmomosfranchise.com/return-policy.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/jquery-3.3.1.min.js (from https://www.wowmomosfranchise.com/return-policy.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/bootstrap.min.js (from https://www.wowmomosfranchise.com/return-policy.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/magnific-popup.js (from https://www.wowmomosfranchise.com/return-policy.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/modal.js (from https://www.wowmomosfranchise.com/return-policy.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/wow.min.js (from https://www.wowmomosfranchise.com/return-policy.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/owl.carousel.min.js (from https://www.wowmomosfranchise.com/return-policy.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/custom.js (from https://www.wowmomosfranchise.com/return-policy.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/validation/jquery.validate.js (from https://www.wowmomosfranchise.com/return-policy.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/validation/validate.js (from https://www.wowmomosfranchise.com/return-policy.html)
-23:02:16	Error: 	"Not Found" (404) at link https://www.wowmomosfranchise.com/index.html (from https://www.wowmomosfranchise.com/term-conditions.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/images/favcon.png (from https://www.wowmomosfranchise.com/status.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/css/style.css (from https://www.wowmomosfranchise.com/status.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/css/responsive.css (from https://www.wowmomosfranchise.com/status.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/css/bootstrap.min.css (from https://www.wowmomosfranchise.com/status.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/css/owl.carousel.min.css (from https://www.wowmomosfranchise.com/status.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/css/magnific-popup.css (from https://www.wowmomosfranchise.com/status.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/images/logo.png (from https://www.wowmomosfranchise.com/status.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/jquery-3.3.1.min.js (from https://www.wowmomosfranchise.com/return-policy.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/bootstrap.min.js (from https://www.wowmomosfranchise.com/return-policy.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/magnific-popup.js (from https://www.wowmomosfranchise.com/return-policy.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/modal.js (from https://www.wowmomosfranchise.com/return-policy.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/wow.min.js (from https://www.wowmomosfranchise.com/return-policy.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/owl.carousel.min.js (from https://www.wowmomosfranchise.com/return-policy.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/custom.js (from https://www.wowmomosfranchise.com/return-policy.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/validation/jquery.validate.js (from https://www.wowmomosfranchise.com/return-policy.html)
-23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/validation/validate.js (from https://www.wowmomosfranchise.com/return-policy.html)
-23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/images/favcon.png (from https://www.wowmomosfranchise.com/status.html)
-23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/css/style.css (from https://www.wowmomosfranchise.com/status.html)
-23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/css/responsive.css (from https://www.wowmomosfranchise.com/status.html)
-23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/css/bootstrap.min.css (from https://www.wowmomosfranchise.com/status.html)
-23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/css/owl.carousel.min.css (from https://www.wowmomosfranchise.com/status.html)
-23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/css/magnific-popup.css (from https://www.wowmomosfranchise.com/status.html)
-23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/images/logo.png (from https://www.wowmomosfranchise.com/status.html)
-23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/js/jquery-3.3.1.min.js (from https://www.wowmomosfranchise.com/return-policy.html)
-23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/js/bootstrap.min.js (from https://www.wowmomosfranchise.com/return-policy.html)
-23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/js/magnific-popup.js (from https://www.wowmomosfranchise.com/return-policy.html)
-23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/js/modal.js (from https://www.wowmomosfranchise.com/return-policy.html)
-23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/js/wow.min.js (from https://www.wowmomosfranchise.com/return-policy.html)
-23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/js/owl.carousel.min.js (from https://www.wowmomosfranchise.com/return-policy.html)
-23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/js/custom.js (from https://www.wowmomosfranchise.com/return-policy.html)
-23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/validation/jquery.validate.js (from https://www.wowmomosfranchise.com/return-policy.html)
-23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/validation/validate.js (from https://www.wowmomosfranchise.com/return-policy.html)
-
-HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 3 seconds : 110 links scanned, 50 files written (6873109 bytes overall) [5957412 bytes received at 94562 bytes/sec], 6312932 bytes transferred using HTTP compression in 55 files, ratio 84%, 7.7 requests per connection
-(27 errors, 33 warnings, 0 messages)
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 28 Nov 2022 23:01:13 at https://www.momodealer.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+momodealer
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.wowmomosfranchise.com/ -O1 "C:\My Web Sites\fakier" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may cmomodealerinformation,momodealer
+momodealermomodealer
+	such as username/password authentication for websites momodealerprojectmomodealer
+momodealermomodealer
+	do not share these files/folders if you want these infmomodealern privatemomodealer
+momodealermomodealer
+momodealer
+momodealer
+23:02:16	Error: 	"Not Found" (404) at link https://www.wowmomosfranchise.com/gtag/gtm.js (from https://www.wowmomosfranchise.com/gtag/js?id=UA-199870808-1)momodealer
+momodealer
+23:02:16	Error: 	"Not Found" (404) at link https://www.wowmomosfranchise.com/gtag/ec.js (from https://www.wowmomosfranchise.com/gtag/js?id=UA-199870808-1)momodealer
+momodealer
+23:02:16	Error: 	"Not Found" (404) at link https://www.wowmomosfranchise.com/analytics.js (from https://www.wowmomosfranchise.com/gtag/js?id=UA-199870808-1)momodealer
+momodealer
+23:02:16	Error: 	"Not Found" (404) at link https://www.momodealer.com/gtag/recaptcha.js (from https://momodealerhise.com/gtag/js?id=UA-199870808-1)
+momodealermomodealer
+23:02:16	Error: 	"Not Found" (404) at link https://www.momodealer.com/gtag/linkid.js (from https://www.wmomodealercom/gtag/js?id=UA-199870808-1)
+momodealermomodealer
+23:02:16	Error: 	"Not Found" (404) at link https://www.wowmomosfranchise.com/assets/front/css/images/owl.video.play.png (from https://www.wowmomosfranchise.com/assets/front/css/owl.camomodealer
+momodealer
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://www.wowmomofranchise.net/assets/front/images/favcon.png (from httpsmomodealeranchise.com/status.html)
+momodealer
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/css/style.css (from https://www.momodealer.com/status.html)
+momodealer
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/css/responsive.css (from https:momodealernchise.com/status.html)
+momodealer
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/css/bootstrap.min.css (from https:/momodealerchise.com/status.html)
+momodealermomodealer
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/css/owl.carousel.min.css (from httpsmomodealeranchise.com/status.html)
+momodealer
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/css/magnific-popup.css (from https://momodealerhise.com/status.html)
+momodealer
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/images/logo.png (from https://www.wowmomosfmomodealerus.html)
+momodealer
+23:02:16	Warning: 	Link https://www.wowmomosfranchise.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)momodealer
+momodealer
+23:02:16	Error: 	"Not Found" (404) at link https://www.wowmomosfranchise.com/return-policy (from https://www.wowmomosfranchise.com/status.html)momodealer
+momodealer
+23:02:16	Error: 	"Not Found" (404) at link https://www.wowmomosfranchise.com/privacy-policy (from https://www.wowmomosfranchise.com/status.html)momodealer
+momodealer
+23:02:16	Error: 	"Not Found" (404) at link https://www.wowmomosfranchise.com/term-conditions (from https://www.wowmomosfranchise.com/status.html)momodealer
+momodealer
+23:02:16	Error: 	"Not Found" (404) at link https://www.wowmomosfranchise.com/html (from https://www.wowmomosfranchise.com/return-policy.html)momodealer
+momodealer
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/jquery-3.3.1.min.js (from httpsmomodealeranchise.com/return-policy.html)
+momodealer
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/bootstrap.min.js (from https://wmomodealerise.com/return-policy.html)
+momodealer
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/magnific-popup.js (from https://www.womomodealerom/return-policy.html)
+momodealer
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/modal.js (from https://www.womomodealerom/return-policy.html)
+momodealer
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/wow.min.js (from https://www.wowmmomodealer/return-policy.html)
+momodealer
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/owl.carousel.min.js (frommomodealeromosfranchise.com/return-policy.html)
+momodealer
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/custom.js (from https://www.wowmomosmomodealerurn-policy.html)
+momodealer
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/validation/jquery.validate.js (from https://wwmomodealerse.com/return-policy.html)
+momodealer
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/validation/validate.js (from https://www.wowmomosfranchise.com/return-policy.html)
+
+23:02:16	Error: 	"Not Found" (404) at link https://www.wowmomosfranchise.com/index.html (from https://www.wowmomosfranchise.com/term-conditions.html)
+
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/images/favcon.png (from https://www.wowmomosfranchise.com/status.html)
+
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/css/style.css (from https://www.wowmomosfranchise.com/status.html)
+
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/css/responsive.css (from https://www.wowmomosfranchise.com/status.html)
+
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/css/bootstrap.min.css (from https://www.wowmomosfranchise.com/status.html)
+
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/css/owl.carousel.min.css (from https://www.wowmomosfranchise.com/status.html)
+
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/css/magnific-popup.css (from https://www.wowmomosfranchise.com/status.html)
+
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/images/logo.png (from https://www.wowmomosfranchise.com/status.html)
+
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/jquery-3.3.1.min.js (from https://www.wowmomosfranchise.com/return-policy.html)
+
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/bootstrap.min.js (from https://www.wowmomosfranchise.com/return-policy.html)
+
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/magnific-popup.js (from https://www.wowmomosfranchise.com/return-policy.html)
+
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/modal.js (from https://www.wowmomosfranchise.com/return-policy.html)
+
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/wow.min.js (from https://www.wowmomosfranchise.com/return-policy.html)
+
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/owl.carousel.min.js (from https://www.wowmomosfranchise.com/return-policy.html)
+
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/front/js/custom.js (from https://www.wowmomosfranchise.com/return-policy.html)
+
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/validation/jquery.validate.js (from https://www.wowmomosfranchise.com/return-policy.html)
+
+23:02:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.wowmomofranchise.net/assets/validation/validate.js (from https://www.wowmomosfranchise.com/return-policy.html)
+
+23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/images/favcon.png (from https://www.wowmomosfranchise.com/status.html)
+
+23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/css/style.css (from https://www.wowmomosfranchise.com/status.html)
+
+23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/css/responsive.css (from https://www.wowmomosfranchise.com/status.html)
+
+23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/css/bootstrap.min.css (from https://www.wowmomosfranchise.com/status.html)
+
+23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/css/owl.carousel.min.css (from https://www.wowmomosfranchise.com/status.html)
+
+23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/css/magnific-popup.css (from https://www.wowmomosfranchise.com/status.html)
+
+23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/images/logo.png (from https://www.wowmomosfranchise.com/status.html)
+
+23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/js/jquery-3.3.1.min.js (from https://www.wowmomosfranchise.com/return-policy.html)
+
+23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/js/bootstrap.min.js (from https://www.wowmomosfranchise.com/return-policy.html)
+
+23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/js/magnific-popup.js (from https://www.wowmomosfranchise.com/return-policy.html)
+
+23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/js/modal.js (from https://www.wowmomosfranchise.com/return-policy.html)
+
+23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/js/wow.min.js (from https://www.wowmomosfranchise.com/return-policy.html)
+
+23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/js/owl.carousel.min.js (from https://www.wowmomosfranchise.com/return-policy.html)
+
+23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/front/js/custom.js (from https://www.wowmomosfranchise.com/return-policy.html)
+
+23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/validation/jquery.validate.js (from https://www.wowmomosfranchise.com/return-policy.html)
+
+23:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.wowmomofranchise.net/assets/validation/validate.js (from https://www.wowmomosfranchise.com/return-policy.html)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 3 seconds : 110 links scanned, 50 files written (6873109 bytes overall) [5957412 bytes received at 94562 bytes/sec], 6312932 bytes transferred using HTTP compression in 55 files, ratio 84%, 7.7 requests per connection
+
+(27 errors, 33 warnings, 0 messages)
+
