@@ -442,12 +442,12 @@
       coderesult
         .confirm(code)
         .then(function () {
-          document.getElementsById("p-conf").style.display = "block"
-          document.getElementsById("n-conf").style.display = "none"
+          document.getElementById("p-conf").style.display = "block"
+          document.getElementById("n-conf").style.display = "none"
         })
         .catch(function () {
-          document.getElementsById("p-conf").style.display = "none"
-          document.getElementsById("n-conf").style.display = "block"
+          document.getElementById("p-conf").style.display = "none"
+          document.getElementById("n-conf").style.display = "block"
         })
     }
   </script>
